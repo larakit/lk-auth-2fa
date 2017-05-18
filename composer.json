@@ -8,6 +8,10 @@
         "larakit"
     ],
     "license": "MIT",
+    "require": {
+        "pragmarx/google2fa": "^0.7.1",
+        "paragonie/constant_time_encoding": "1.*",
+    },
     "autoload": {
         "psr-4": {
             "Larakit\\": "src"
