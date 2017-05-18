@@ -1,0 +1,20 @@
+{
+    "name": "larakit/lk-auth-2fa",
+    "description": "[Larakit] Двухфакторная авторизация",
+    "version": "1.0.0",
+    "keywords": [
+        "laravel",
+        "laravel 5",
+        "larakit"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Larakit\\": "src"
+        },
+        "files": [
+            "src/init.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
